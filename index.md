@@ -47,36 +47,29 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information
-Gender:male 
-Date of birth:12/Oct/1998
-Place of birth:Anhui, China
-Address: Zhongguancun East Road No.28, the Chinese Academy of Sciences, Haidian, Beijing 
-Mail:
-Tel: (+86)132-0386-6776
+-Gender: male 
+-Date of birth: 12/Oct/1998
+-Place of birth: Anhui, China
+-Address: Zhongguancun East Road No.28, the Chinese Academy of Sciences, Haidian, Beijing 
+-Mail: xpc@lsec.cc.ac.cn
+
  
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education 
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-Bachler
-Honors Youth Program,
+-Graduate Student, in Mathemmatics, Academy of Mathemmatics and Systems Science of the Chinese Academy of Sciences, 2019.9-
+-Bachler of Science, in Mathematics, from Xi'an Jiaotong University, Shaanxi, China, 2015.9-2019.6
+-Honors Youth Program, from Xi'an Jiaotong University, Shaanxi, China, 2013.9-2015.6
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+## <img src="assets/project-diagram-solid.svg" width="30px"> Publications
 
-   负责 XXX
+-Pengcheng Xie and Molei Tao, "Parametric Resonant Control of Macroscopic Behaviors of Multiple Oscillators," 2019 American Control Conference (ACC), Philadelphia, PA, USA, 2019, pp. 1898-1905, doi: 10.23919/ACC.2019.8814709.
+-Nian-wen Si, Heng-jun Wang, Wei Li, Yi-dong Shan and Pengcheng Xie. Chinese Part-of-speech Tagging Model Using Attention-based LSTM[J].Computer Science, 2018, 45(4): 66-70, 82.
+-Pengcheng Xie, Mathemmatics: The blade of modern warfare,[J], Youth, ISSN: 1002-6835, 2016, 17:98, 128
+-Miao Sun, Fuming Wang, Pengcheng Xie and Wendong Zhu, Evaluation of Network Information Security [J], Journal of Cryptology and Information Security, 2016, 28(5)
+## <img src="assets/tools-solid.svg" width="30px"> Skills
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
-
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java
+-Programming Languages:C, Matlab, C++, Python, R
 - ★★☆ C++、Python
 - ★★★ MySQL
 - ★★★ Redis
