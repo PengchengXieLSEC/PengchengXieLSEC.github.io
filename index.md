@@ -1,6 +1,6 @@
 ## Welcome to PengchengXie's HomePage
 
-[^_^]: # (You can use the [editor on GitHub](https://github.com/PengchengXieLSEC/PengchengXieLSEC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ <!--(You can use the [editor on GitHub](https://github.com/PengchengXieLSEC/PengchengXieLSEC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.nihao你好
 
@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
              <a href="#">My Blog</a>
          </span>
      </div>
- </center>)
+ </center>  -->
 
 ##  Personal information
 -Gender: male    
@@ -58,7 +58,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -Mail: xpc@lsec.cc.ac.cn    
 
  
-## <img src="assets/graduation-cap-solid.svg" width="30px"> Education 
+###  Education 
 -Graduate Student, in Mathemmatics, Academy of Mathemmatics and Systems Science of the Chinese Academy of Sciences, 2019.9-  
 
 -Bachler of Science, in Mathematics, from Xi'an Jiaotong University, Shaanxi, China, 2015.9-2019.6  
@@ -66,7 +66,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -Honors Youth Program, from Xi'an Jiaotong University, Shaanxi, China, 2013.9-2015.6  
 
 
-##  Publications
+###  Publications
 -Pengcheng Xie and Molei Tao, "Parametric Resonant Control of Macroscopic Behaviors of Multiple Oscillators," 2019 American Control Conference (ACC), Philadelphia, PA, USA, 2019, pp. 1898-1905, doi: 10.23919/ACC.2019.8814709.  
 
 -Nian-wen Si, Heng-jun Wang, Wei Li, Yi-dong Shan and Pengcheng Xie. Chinese Part-of-speech Tagging Model Using Attention-based LSTM[J].Computer Science, 2018, 45(4): 66-70, 82.  
@@ -75,9 +75,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -Miao Sun, Fuming Wang, Pengcheng Xie and Wendong Zhu, Evaluation of Network Information Security [J], Journal of Cryptology and Information Security, 2016, 28(5)
 
-## Working on
+### Working on
 -
-## Social Actiities
+### Social Actiities
 -Student Member of Chinese Society of Optimization method, Overall Planning and Economic Mathematics
 
 -Student Member of Chinese Mathematical Society
@@ -88,7 +88,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -Chairman of SIAM CAS Student Branch
 
-## Exchange Experiences and Conferences
+### Exchange Experiences and Conferences
 
 2018.01-2018.05 Exchange at Georgia Institute of Technology, United States
 
@@ -102,7 +102,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 2017.12  The 3rd China C9/E9 Universities Honor Education conference, Harbin Institute of Technology, China
 
-## <img src="assets/tools-solid.svg" width="30px"> Skills
+### <img src="assets/tools-solid.svg" width="30px"> Skills
 
 -Programming Languages: C, Matlab, C++, Python, R  
 
@@ -112,7 +112,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -Development: Web
 
-## Honors
+### Honors
 -Ranked 9th in objective questions of the 2nd "Huawei Cup" China Postgraduate Artificial Intelligence Innovation Competition , as the team leader   in 2020
 
 -National Second Prize in the 16th "Huawei Cup" China Graduate Mathematical Contest in Modeling, as team leader   in 2019     
@@ -130,7 +130,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -Xi’an Jiaotong University Gained Outstanding Students  in 2015/2016/2017
 -National Science Program Scholarship  in 2016/2017
 
-## Interests and Life
+### Interests and Life
 -Sports:  Badminton, Tennis, Swimming, Basketball, Marathon       
 
 -Music:  Clarinet          
