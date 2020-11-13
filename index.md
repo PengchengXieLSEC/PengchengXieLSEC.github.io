@@ -113,3 +113,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -Sports:  Badminton, Tennis, Swimming, Basketball, Marathon       
 -Music:  Clarinet          
 -When I am free,  I will climb mountains, jog, play badminton with my friends, sometimes we will exchange our ideas during these enjoyful time
+
+
+
+
+![图3 复制图片地址]（https://github.com/PengchengXieLSEC/Myimage/blob/master/image/WechatIMG2559.jpg?raw=true)
+
+
+
+
+
+
