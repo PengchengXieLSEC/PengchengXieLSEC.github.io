@@ -48,7 +48,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information
 -Gender: male    
--Date of birth: 12/Oct/1998   
+-Date of year: 1998   
 -Place of birth: Anhui, China     
 -Address: Zhongguancun East Road No.28, the Chinese Academy of Sciences, Haidian, Beijing    
 -Mail: xpc@lsec.cc.ac.cn    
@@ -71,14 +71,25 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## <img src="assets/project-diagram-solid.svg" width="30px">Working on
 -
 ## <img src="assets/project-diagram-solid.svg" width="30px">Social Actiities
--Student Member of Chinese Society of Optimization, Overall Planning and Economic Mathematics
-
+-Student Member of Chinese Society of Optimization method, Overall Planning and Economic Mathematics
 -Student Member of Chinese Mathematical Society
+-Member of the Scientific Institution of Xi’an Jiaotong University   
+-Student Member of Operations Research Society of China Mathematical Society-Student Member of Chinese Mathematical Society 
+-Chairman of SIAM CAS Student Branch
 
--Member of the Scientific Institution of Xi’an Jiaotong University
 ## <img src="assets/project-diagram-solid.svg" width="30px">Exchange Experiences and Conferences
 
+2018.01-2018.05 Exchange at Georgia Institute of Technology, United States
 
+2016.07-2016.08 Exchange at University of Alberta, Canada 
+
+2018.07  Basic Subject Top-notch Academic Conference, University of Science and Technology of China, 
+
+2016.11  Basic Subject Top-notch Personnel Training Experience Conference, Xi’an Jiaotong University, China
+
+2017.08  The 8th China-Japan-Korea Youth Forum, Beijing Foreign Studies University, China
+
+2017.12  The 3rd China C9/E9 Universities Honor Education conference, Harbin Institute of Technology, China
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 
@@ -86,3 +97,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -Platform: Linux, Windows, MacOS   
 -Languages: English-Fluent, Chinese-Native speaker   
 -Development: Web
+
+## <img src="assets/tools-solid.svg" width="30px"> Honors
+-Ranked 9th in objective questions of the 2nd "Huawei Cup" China Postgraduate Artificial Intelligence Innovation Competition , as the team leader   in 2020
+-National Second Prize in the 16th "Huawei Cup" China Graduate Mathematical Contest in Modeling, as team leader   in 2019     
+-Gratitude Chinese Modern Scientist Award  in 2019
+-Top Ten Outstanding Student of Xi’an Jiaotong University (the highest personal honor in University) in 2018
+-Chinese Academy of Sciences Hua Loo-keng Scholarship  in 2018
+-Xi’an Jiaotong University Siyuan Scholarship  in 2015/2016/2017
+-Xi’an Jiaotong University Gained Outstanding Students  in 2015/2016/2017
+-National Science Program Scholarship  in 2016/2017
+
