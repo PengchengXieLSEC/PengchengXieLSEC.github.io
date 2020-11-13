@@ -101,10 +101,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## <img src="assets/tools-solid.svg" width="30px"> Honors
 -Ranked 9th in objective questions of the 2nd "Huawei Cup" China Postgraduate Artificial Intelligence Innovation Competition , as the team leader   in 2020
 -National Second Prize in the 16th "Huawei Cup" China Graduate Mathematical Contest in Modeling, as team leader   in 2019     
--Gratitude Chinese Modern Scientist Award  in 2019
+-Gratitude Chinese Modern Scientist Award  in 2019    
+-Pengkang people who is active
 -Top Ten Outstanding Student of Xi’an Jiaotong University (the highest personal honor in University) in 2018
 -Chinese Academy of Sciences Hua Loo-keng Scholarship  in 2018
 -Xi’an Jiaotong University Siyuan Scholarship  in 2015/2016/2017
 -Xi’an Jiaotong University Gained Outstanding Students  in 2015/2016/2017
 -National Science Program Scholarship  in 2016/2017
 
+## <img src="assets/tools-solid.svg" width="30px"> Interests and Life
+-Sports:  Badminton, Tennis, Swimming, Basketball, Marathon       
+-Music:  Clarinet          
+-When I am free,  I will climb mountains, jog, play badminton with my friends, sometimes we will exchange our ideas during these enjoyful time
