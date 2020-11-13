@@ -47,11 +47,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information
--Gender: male 
--Date of birth: 12/Oct/1998
--Place of birth: Anhui, China
--Address: Zhongguancun East Road No.28, the Chinese Academy of Sciences, Haidian, Beijing 
--Mail: xpc@lsec.cc.ac.cn
+-Gender: male    
+-Date of birth: 12/Oct/1998   
+-Place of birth: Anhui, China     
+-Address: Zhongguancun East Road No.28, the Chinese Academy of Sciences, Haidian, Beijing    
+-Mail: xpc@lsec.cc.ac.cn    
 
  
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education 
@@ -67,6 +67,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -Nian-wen Si, Heng-jun Wang, Wei Li, Yi-dong Shan and Pengcheng Xie. Chinese Part-of-speech Tagging Model Using Attention-based LSTM[J].Computer Science, 2018, 45(4): 66-70, 82.  
 -Pengcheng Xie, Mathemmatics: The blade of modern warfare,[J], Youth, ISSN: 1002-6835, 2016, 17:98, 128  
 -Miao Sun, Fuming Wang, Pengcheng Xie and Wendong Zhu, Evaluation of Network Information Security [J], Journal of Cryptology and Information Security, 2016, 28(5)
+
+## <img src="assets/project-diagram-solid.svg" width="30px">Working on
+-
+## <img src="assets/project-diagram-solid.svg" width="30px">Social Actiities
+-Student Member of Chinese Society of Optimization, Overall Planning and Economic Mathematics
+
+-Student Member of Chinese Mathematical Society
+
+-Member of the Scientific Institution of Xi’an Jiaotong University
+## <img src="assets/project-diagram-solid.svg" width="30px">Exchange Experiences and Conferences
+
+
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 
